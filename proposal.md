@@ -180,7 +180,7 @@ By submitting this proposal, I acknowledge that:
 
 Student 1:  __Jamie Aaron Cole__ Date: __04/08/26__
 Student 2:  ___abdullahi mohamed_________________________ Date: _04/08/26______________
-Student 3:  ____________________________ Date: _______________
+Student 3:  __Makayla MacNeill__ Date: __04/09/26_____
 Student 4:  ____________________________ Date: _______________
 
 Instructor: ____________________________ Date: _______________
