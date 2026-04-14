@@ -1,0 +1,48 @@
+Delegation task list for Minimum Viable Product:
+
+Proposed deadline: April 22-24th
+
+Task 1: Bot Developer
+
+The person assigned to task 1 is responsible for building the Discord bot itself
+
+• Using your preferred IDE for Python, install discord.py
+• Connect bot to Discord
+• Implement message reading/test response so we can see if it works in the Discord
+
+
+
+Task 2: NRCLex Integrator (the library we are referencing)
+
+We agreed on using the NRCLex library that Jamie suggested: https://pypi.org/project/NRCLex/
+
+The project site has clear instructions. Your task will be to integrate the text analysis function from this library into our project.
+
+• Install NRCLex
+• Build text analysis function
+• Test analysis with sample input
+
+
+
+
+Task 3: Mood Ring Implementation
+
+With the help of NRCLex, we will tie it together with this task, to assign a mood ring color to the emotion analysis provided by NRCLex.
+
+• Use Python to build a mood retrieval function from emotions detected in text. For example, if emotion joy is greater than 1, return Yellow color
+• Test with sample input, using fake emotion (ie, {"anger": 3} returns Black color)
+
+
+
+
+Deliverables (files for Git repo):
+
+Person on Task 1: bot.py
+
+Person on Task 2: emotion_analysis.py
+
+Person on Task 3: mood_color.py
+
+
+
+All tasks will be connected in bot.py as a group effort at the deadline.
