@@ -1,0 +1,18 @@
+# Environment variables (secrets)
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs
+bot.log
+
+# Data files 
+data/
+
+# OS junk
+.DS_Store
